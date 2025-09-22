@@ -1,1 +1,1 @@
-PORTFOLIO AGENT PROJECT - Source control for resumes/coverletters
+PORTFOLIO AGENT PROJECT - Source control for resumes/cover letters
